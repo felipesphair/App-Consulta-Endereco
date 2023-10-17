@@ -1,6 +1,6 @@
 # App-Consulta-Endereco
 
-- Esta página web com html e bootstrap de forma simples, além de ter o objetivo de aprimorar habilidades em JavaScript, manipulação de JSON e integração com APIs REST, usando a API de Consulta de CEP. Permite a inserção de um CEP válido para obter automaticamente informações detalhadas sobre o endereço associado. A interface é intuitiva, fornecendo feedbacks sobre a validade do CEP e limpando os campos se o CEP for removido. É uma ferramenta valiosa para aprimorar habilidades de programação web.
+- Esta página web com html e bootstrap de forma simples, além de ter o objetivo de aprimorar habilidades em JavaScript, manipulação de JSON e integração com APIs REST, usando a API de Consulta de CEP. Permite a inserção de um CEP válido para obter automaticamente informações detalhadas sobre o endereço associado. A interface é intuitiva, fornecendo feedbacks sobre a validade do CEP e limpando os campos se o CEP for removido.
 
 - Para rodar basta baixar a pasta, colocar ela no htdocs do Xammp, após isso iniciar o apache, abrir seu navegador e digitar http://localhost/app_pesquisa_endereco/ assim irá rodar normalmente
 
